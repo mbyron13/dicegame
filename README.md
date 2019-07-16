@@ -1,6 +1,6 @@
 # dicegame
 
-## How to play :dice:
+## How to play the dice game Pig
 
 This game has two players, and goes by round. On your turn, you can roll the two dice as many times as you wish to add to your round score. 
 
